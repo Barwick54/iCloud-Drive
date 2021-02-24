@@ -1,0 +1,13 @@
+From 38ca4c4f833dd56ca3b52485064ab741a0921fed Mon Sep 17 00:00:00 2001
+From: Robert Anderson <celty200@pm.me>
+Date: Wed, 24 Feb 2021 10:11:34 -0600
+Subject: [PATCH] Added
+
+otpauth://totp/RGAnderson@pm.me?secret=UVNX3DWCFXK2KCMSM5YOYDV46PAOTDCM&
+issuer=ProtonMa il&algorithm=SHA1&digits=6&period=30
+---
+ 0 files changed, 0 insertions(+), 0 deletions(-)
+
+--
+Working Copy 4.5.8
+
